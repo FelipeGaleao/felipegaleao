@@ -4,6 +4,6 @@
     }
 </style>
 
-<div>
+<article>
 teste
-</div>
+</article>
