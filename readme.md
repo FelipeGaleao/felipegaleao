@@ -1,9 +1,9 @@
 <style>
-    body{
+    .fundo-raizen{
         background-color: #882B84;
     }
 </style>
 
-<article>
+<article class="fundo-raizen">
 teste
 </article>
