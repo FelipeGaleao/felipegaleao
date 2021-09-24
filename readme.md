@@ -10,7 +10,7 @@ Engenharia de Software pela Universidade Federal do Mato Grosso do Sul, tem expe
 ---------------------------------------
 ### Detalhes
 
-- 📱 Analista de Sistemas Pleno na @Keyrus Brasil
+- 📱 Engenheiro de Dados (LDI & Renováveis) na @Raízen
 - 📚 Desenvolvedor Web no @Instituto Tekoá
 - ⚛️ Desenvolvedor/Data Manager no @Projeto Medalha
 - 👷🏽‍♂️ Cursando Engenharia de Software na Universidade Federal do Mato Grosso do Sul
@@ -20,6 +20,7 @@ Engenharia de Software pela Universidade Federal do Mato Grosso do Sul, tem expe
 
 ---------------------------------------
 ### Experiências
+💼  Engenheiro de Dados na Raízen (2021-)
 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na Keyrus Brasil (2020-2021) <br>
 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na Secretaria de Fazenda do Mato Grosso do Sul (2020-2020) <br>
 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no Grupo Energisa (2019-2020) 
