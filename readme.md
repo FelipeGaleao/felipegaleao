@@ -10,10 +10,10 @@ Engenharia de Software pela Universidade Federal do Mato Grosso do Sul, tem expe
 ---------------------------------------
 ### Detalhes
 
-- 📱 Engenheiro de Dados (LDI & Renováveis) na @Raízen
-- 📚 Desenvolvedor Web no @Instituto Tekoá
-- ⚛️ Desenvolvedor/Data Manager no @Projeto Medalha
-- 👷🏽‍♂️ Cursando Engenharia de Software na Universidade Federal do Mato Grosso do Sul
+- 📱 Engenheiro de Dados (LDI & Renováveis) na www.raizen.com.br
+- 📚 Desenvolvedor Web no tekoa.ong.br
+- ⚛️ Desenvolvedor/Data Manager no projetomedalha.org
+- 👷🏽‍♂️ Cursando Engenharia de Software (2021-2024) na Universidade Federal do Mato Grosso do Sul
 
 [linkedin]: https://www.linkedin.com/in/mfelipemota/
 [github]: https://github.com/felipegaleao
