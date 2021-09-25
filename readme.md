@@ -20,7 +20,7 @@ Engenharia de Software pela Universidade Federal do Mato Grosso do Sul, tem expe
 
 ---------------------------------------
 ### Experiências
-💼  Engenheiro de Dados na Raízen (2021-)
+💼  Engenheiro de Dados na Raízen (2021-) <br>
 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na Keyrus Brasil (2020-2021) <br>
 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na Secretaria de Fazenda do Mato Grosso do Sul (2020-2020) <br>
 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no Grupo Energisa (2019-2020) 
