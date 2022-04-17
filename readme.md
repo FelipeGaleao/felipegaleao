@@ -13,9 +13,9 @@
 ### Detalhes
 
 - 📱 Engenheiro de Dados (LDI & Renováveis) na www.raizen.com.br
-- 📚 Desenvolvedor Web no tekoa.ong.br
-- ⚛️ Desenvolvedor/Data Manager no projetomedalha.org
-- 👷🏽‍♂️ Cursando Engenharia de Software (2021-2024) na Universidade Federal do Mato Grosso do Sul
+- 📚 Desenvolvedor Web no [tekoa.ong.br](http://tekoa.ong.br)
+- ⚛️ Desenvolvedor/Data Manager no [projetomedalha.org](http://www.projetomedalha.org)
+- 👷🏽‍♂️ Cursando Engenharia de Software (2021-2024) na [Universidade Federal do Mato Grosso do Sul](http://ufms.br)
 
 [linkedin]: https://www.linkedin.com/in/mfelipemota/
 [github]: https://github.com/felipegaleao
@@ -23,7 +23,7 @@
 ---------------------------------------
 ### Experiências
 - 💼  Engenheiro de Dados na [Raízen](www.raizen.com) (2021-) 
-- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus Brasil]((http://www.keyrus.com.br) (2020-2021)
+- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus Brasil](http://www.keyrus.com.br) (2020-2021)
 - 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na [Secretaria de Fazenda do Mato Grosso do Sul ](https://www.sgi.ms.gov.br/) (2020-2020) 
 - 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa]((http://www.energisa.com.br) (2019-2020) 
 
