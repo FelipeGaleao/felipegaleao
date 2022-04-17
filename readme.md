@@ -1,7 +1,7 @@
 
 
 
-**Maycon Felipe Mota** <small>[FelipeGaleao](www.github.com/felipegaleao)</small>
+**Maycon Felipe Mota** <small>[FelipeGaleao](http://www.github.com/felipegaleao)</small>
  <p>Data & Software Engineering</p>
  
 [![Linkedin - mfelipemota](https://img.shields.io/badge/Linkedin-mfelipemota-86888a)](https://)[![Instagram - mfelipemota](https://img.shields.io/badge/Instagram-mfelipemota-5851DB)](https://)
@@ -23,9 +23,9 @@
 ---------------------------------------
 ### Experiências
 - 💼  Engenheiro de Dados na [Raízen](www.raizen.com) (2021-) 
-- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus Brasil](www.keyrus.com.br) (2020-2021)
+- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus Brasil]((http://www.keyrus.com.br) (2020-2021)
 - 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na [Secretaria de Fazenda do Mato Grosso do Sul ](https://www.sgi.ms.gov.br/) (2020-2020) 
-- 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa](www.energisa.com.br) (2019-2020) 
+- 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa]((http://www.energisa.com.br) (2019-2020) 
 
 ---------------------------------------
 ### Cursos/Certificações
