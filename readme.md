@@ -23,14 +23,14 @@
 ---------------------------------------
 ### Experiências
 - 💼  Engenheiro de Dados na [Raízen](www.raizen.com) (2021-) 
-- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus](http://www.keyrus.com.br) (2020-2021)
+- 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus](http://www.keyrus.com) (2020-2021)
 - 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na [Secretaria de Fazenda do Mato Grosso do Sul ](https://www.sgi.ms.gov.br/) (2020-2020) 
 - 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa](http://www.energisa.com.br) (2019-2020) 
 
 ---------------------------------------
 ### Cursos/Certificações
 
- - 🏅 [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/XMRWU8JP283B)  by Google and Coursera
+- 🏅 [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/XMRWU8JP283B)  by Google and Coursera
 - 🏅 [Modernizing Data Lakes and Data Warehouses](https://www.coursera.org/account/accomplishments/verify/T2TJ4N3PHBZG) by Google and Coursera
-- 🏅[Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/UKVJXFMZTCK6) by Google and Coursera
+- 🏅 [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/UKVJXFMZTCK6) by Google and Coursera
 - 🏅 [Delta Lake Essentials, Unified Data Analytics Essentials, Fundamentals of Big Data and Apache Spark Associate Developer](https://databricks.com/learn/training/home) by Databricks 
