@@ -4,7 +4,7 @@
 **Maycon Felipe Mota** <small>[FelipeGaleao](http://www.github.com/felipegaleao)</small>
  <p>Data & Software Engineering</p>
  
-[![Linkedin - mfelipemota](https://img.shields.io/badge/Linkedin-mfelipemota-86888a)](https://)[![Instagram - mfelipemota](https://img.shields.io/badge/Instagram-mfelipemota-5851DB)](https://)
+[![Linkedin - mfelipemota](https://img.shields.io/badge/Linkedin-mfelipemota-86888a)](https://linkedin.com/in/mfelipemota)[![Instagram - mfelipemota](https://img.shields.io/badge/Instagram-mfelipemota-5851DB)](https://instagram.com/mfelipemota)
 <p>Graduando em Engenharia de Software pela Universidade Federal do Mato Grosso do Sul (UFMS), tem experiência em projetos de Desenvolvimento Web (React, Angular, Node, PHP e .Net Core), Business Intelligence (Tableau, PowerBI, QlikSense e SuperSet) e Engenharia de Dados (Azure, Google Cloud Plataform). </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegaleao&layout=compact)
