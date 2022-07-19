@@ -29,8 +29,8 @@
 
 ---------------------------------------
 ### Cursos/Certificações
-
+- 🏅 [Academy Accreditation - Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e0e1c4fd-cd4d-49d9-9945-d82a736599d3#gs.65w2bg) by Databricks 
 - 🏅 [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/XMRWU8JP283B)  by Google and Coursera
 - 🏅 [Modernizing Data Lakes and Data Warehouses](https://www.coursera.org/account/accomplishments/verify/T2TJ4N3PHBZG) by Google and Coursera
 - 🏅 [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/UKVJXFMZTCK6) by Google and Coursera
-- 🏅 [Delta Lake Essentials, Unified Data Analytics Essentials, Fundamentals of Big Data and Apache Spark Associate Developer](https://databricks.com/learn/training/home) by Databricks 
+- 🏅 [Delta Lake Essentials, Unified Data Analytics Essentials, Fundamentals of Big Data and Apache Spark Associate Developer](https://credentials.databricks.com/profile/mayconfelipemota632156/wallet#gs.65w3vc) by Databricks 
