@@ -29,7 +29,7 @@
 
 ---------------------------------------
 ### Cursos/Certificações
-- 🏅 [Azure Data Fundamentals (DP900)](https://credentials.databricks.com/e0e1c4fd-cd4d-49d9-9945-d82a736599d3#gs.65w2bg(https://www.credly.com/earner/earned/badge/fcdaa2c8-c5f6-44b1-a0e3-0f47c4563ffa) by Microsoft 
+- 🏅 [Azure Data Fundamentals (DP900)](https://www.credly.com/earner/earned/badge/fcdaa2c8-c5f6-44b1-a0e3-0f47c4563ffa) by Microsoft 
 - 🏅 [Academy Accreditation - Databricks Lakehouse Fundamentals](https://credentials.databricks.com/e0e1c4fd-cd4d-49d9-9945-d82a736599d3#gs.65w2bg) by Databricks 
 - 🏅 [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/XMRWU8JP283B)  by Google and Coursera
 - 🏅 [Modernizing Data Lakes and Data Warehouses](https://www.coursera.org/account/accomplishments/verify/T2TJ4N3PHBZG) by Google and Coursera
