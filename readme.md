@@ -13,7 +13,6 @@
 ### Detalhes
 
 - 📱 Engenheiro de Dados (LDI & Renováveis) na [raizen](http://www.raizen.com.br)
-- 📚 Desenvolvedor Web no [tekoa.ong.br](http://tekoa.ong.br)
 - ⚛️ Desenvolvedor/Data Manager no [projetomedalha.org](http://www.projetomedalha.org)
 - 👷🏽‍♂️ Cursando Engenharia de Software (2021-2024) na [Universidade Federal do Mato Grosso do Sul](http://ufms.br)
 
