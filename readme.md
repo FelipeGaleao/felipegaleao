@@ -12,7 +12,7 @@
 ---------------------------------------
 ### Detalhes
 
-- 📱 Sr Engenheiro de Dados & Tech Lead (Renováveis?Power) na [raizen](http://www.raizen.com.br)
+- 📱 Sr Engenheiro de Dados & Tech Lead (Renováveis/Power) na [raizen](http://www.raizen.com.br)
 - ⚛️ Desenvolvedor/Data Manager no [projetomedalha.org](http://www.projetomedalha.org)
 - 👷🏽‍♂️ Cursando Engenharia de Software (2021-2024) na [Universidade Federal do Mato Grosso do Sul](http://ufms.br)
 
