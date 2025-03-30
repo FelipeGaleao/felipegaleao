@@ -24,7 +24,7 @@
 - 💼  Engenheiro de Dados (Tech Lead) na [Raízen](http://www.raizen.com) (2021-) 
 - 💼  Desenvolvedor Full-Stack (Node, .Net Core, PHP, Angular e React) na [Keyrus](http://www.keyrus.com) (2020-2021)
 - 💼  Analista de Dados Pleno (Superset, QlikSense, SSIS, SQL Server, Knime) na [Secretaria de Fazenda do Mato Grosso do Sul ](https://www.sgi.ms.gov.br/) (2020-2020) 
-- 🚀  Estassgiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa](http://www.energisa.com.br) (2019-2020) 
+- 🚀  Estagiário (PHP, React, Node, Python, Knime, PowerBI, SQL Server) no [Grupo Energisa](http://www.energisa.com.br) (2019-2020) 
 
 ---------------------------------------
 ### Cursos/Certificações
