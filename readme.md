@@ -14,7 +14,7 @@
 
 - 📱 Data Platform Engineer (Renováveis/Power) na [Arco Educação](https://www.arcoeducacao.com.br/)
 - ⚛️ Software Engineering Manager (Voluntário) no [projetomedalha.org](http://www.projetomedalha.org)
-- ⚛️ Engineering Lead (Voluntário) na [sulcargovirtual.org](sulcargovirtual.org)
+- ✈ Engineering Lead (Voluntário) na [sulcargovirtual.org](sulcargovirtual.org)
 - 👷🏽‍♂️ Graduado em Engenharia de Software (2021-2024) na [Universidade Federal do Mato Grosso do Sul](http://ufms.br)
 
 [linkedin]: https://www.linkedin.com/in/mfelipemota/
