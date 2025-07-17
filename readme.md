@@ -12,7 +12,7 @@
 ---------------------------------------
 ### Detalhes
 
-- 📱 Data Platform Engineer (Renováveis/Power) na [Arco Educação](https://www.arcoeducacao.com.br/)
+- 📱 Software Engineer na [Arco Educação](https://www.arcoeducacao.com.br/)
 - ⚛️ Software Engineering Manager (Voluntário) no [projetomedalha.org](http://www.projetomedalha.org)
 - ✈ Engineering Lead (Voluntário) na [sulcargovirtual.org](https://sulcargovirtual.net)
 - 👷🏽‍♂️ Graduado em Engenharia de Software (2021-2024) na [Universidade Federal do Mato Grosso do Sul](http://ufms.br)
